@@ -1,0 +1,71 @@
+✅ 1) Collections – Need of Collection Framework
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=1
+
+✅ 2) Collections – Difference between Arrays and Collections
+
+▶️ https://www.youtube.com/watch?v=OJDh2JXW7Ec
+
+✅ 3) Collection and Collection Framework
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=3
+
+✅ 4) Difference between Collection and Collections
+
+▶️ https://www.youtube.com/watch?v=r_-GeahBJUU
+
+✅ 5) 9 key interfaces of Collection framework – Collection
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=4
+
+✅ 6) 9 key interfaces of Collection framework – List
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=6
+
+✅ 7) 9 key interfaces of Collection framework – Set
+
+▶️ https://www.youtube.com/watch?v=n8RRsB2dP7k
+
+✅ 8) 9 key interfaces of Collection framework – Map
+
+▶️ https://www.youtube.com/watch?v=go_Kub9_pxY
+
+✅ 9) ArrayList (core class)
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=10
+
+(Playlist link points to related videos — just find the one with “ArrayList” in the title in the same sequence.)
+
+✅ 10) HashSet (core class)
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=11
+
+✅ 11) HashMap (core class)
+
+▶️ https://www.youtube.com/watch?v=pHOZBuUooYc&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ&index=12
+
+🧠 WHY THESE 11 ARE ENOUGH
+
+These cover:
+✅ Interfaces (Collection, List, Set, Map)
+✅ Practical usage (ArrayList, HashSet, HashMap)
+✅ Key differences you must know (Collection vs Collections, arrays vs collections)
+
+This gives you exactly what A2Z DSA assumes you already know — no heavy internals, no advanced edge cases.
+
+🚀 How to watch them efficiently
+
+🟡 Day 1: Up to video #4 — build understanding of what collections are.
+🟢 Day 2: Interfaces #5–#8 — core structure you’ll use in DSA.
+🔵 Day 3: ArrayList / HashSet / HashMap — practice simple code after each.
+
+Done. No need to watch the rest now.
+
+Want a pdf checklist of what to practice after watching these?
+
+I can make you a quick exercises list like:
+✔️ Write code using ArrayList
+✔️ Count word frequency using HashMap
+✔️ Remove duplicates with HashSet
+
+Just tell me!
