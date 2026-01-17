@@ -1,0 +1,1 @@
+If you know the size in advanced then it is highly recommended to use array ok.

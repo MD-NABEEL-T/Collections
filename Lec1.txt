@@ -31,3 +31,4 @@ COLLECTIONS
 👉 contains() is a method used to check whether an element exists in a collection.
 collections are growable in nature 
 collections can hold both homo and heterogenous.
+Standard DS
