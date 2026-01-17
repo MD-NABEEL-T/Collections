@@ -1,0 +1,13 @@
+To represent 10000 int values we cant declare individually 
+so we go for arrays concept
+BIGGEST ADV OF ARRAY is storing using only one variable
+
+But there are some limitations of arrays:
+1.Arrays are fixed in size.
+2.Arrays can hold only homogenous data element
+ for example :
+
+//Student[] s = new Student(); // ❌ wrong
+Student[] s = new Student[3];
+ s[0]=new Student();
+ s[1]=new Customer();
