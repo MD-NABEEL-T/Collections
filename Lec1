@@ -1,3 +1,6 @@
+One-line interview killer answer 💣
+Arrays are fixed-size, type-restricted, and lack flexibility, which is why Java Collections were introduced.
+
 To represent 10000 int values we cant declare individually 
 so we go for arrays concept
 BIGGEST ADV OF ARRAY is storing using only one variable
@@ -7,7 +10,24 @@ But there are some limitations of arrays:
 2.Arrays can hold only homogenous data element
  for example :
 
-//Student[] s = new Student(); // ❌ wrong
+//Student[] s = new Student(); // ❌ syntax wrong (check basicstuff.txt)
 Student[] s = new Student[3];
  s[0]=new Student();
  s[1]=new Customer();
+cant add this customer is the limitation.
+
+but we can do like this.
+ Object[] a=new Object[1000];
+ a[0]=new Student();
+ a[1]=new Customer();
+
+ NOTE:object[] a = new object[1000]; // ❌
+❌ Wrong (Java is case-sensitive)
+3. Underying DS
+
+
+
+COLLECTIONS
+👉 contains() is a method used to check whether an element exists in a collection.
+collections are growable in nature 
+collections can hold both homo and heterogenous.
